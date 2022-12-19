@@ -1,4 +1,4 @@
-![Flysoft](https://avatars.githubusercontent.com/u/49718840?s=100)
+![Flysoft's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlysoftBeta)
 ---
 - ✨ Hi, I’m @FlysoftBeta
 
