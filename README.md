@@ -1,5 +1,6 @@
 ![Flysoft's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlysoftBeta)
----
+![Flysoft's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Flysoft)
+
 - ✨ Hi, I’m @FlysoftBeta
 
 - 👀 I’m interested in coding
