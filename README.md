@@ -1,8 +1,6 @@
-![Flysoft's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=FlysoftBeta&show_icons=true&theme=react#gh-dark-mode-only)
-![Flysoft's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=FlysoftBeta&show_icons=true&theme=default#gh-light-mode-only)
+![Flysoft-GitHub-stats](https://github-readme-stats.vercel.app/api?username=FlysoftBeta&show_icons=true&theme=react#gh-dark-mode-only)
 
-![Flysoft's Wakatime stats-Dark](https://github-readme-stats.vercel.app/api/wakatime?username=Flysoft&theme=react#gh-dark-mode-only)
-![Flysoft's Wakatime stats-Light](https://github-readme-stats.vercel.app/api/wakatime?username=Flysoft&theme=default#gh-light-mode-only)
+![Flysoft's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Flysoft&theme=react#gh-dark-mode-only)
 
 - ✨ Hi, I’m @FlysoftBeta
 
@@ -12,11 +10,11 @@
 
 - 📫 Bilibili: [414121283](https://space.bilibili.com/414121283)
 
-![Flysoft 的 GitHub 状态-Dark](https://github-readme-stats.vercel.app/api?username=FlysoftBeta&show_icons=true&locale=cn&theme=react#gh-dark-mode-only)
-![Flysoft 的 GitHub 状态-Light](https://github-readme-stats.vercel.app/api?username=FlysoftBeta&show_icons=true&locale=cn&theme=default#gh-light-mode-only)
 
-![Flysoft 的 Wakatime 状态-Dark](https://github-readme-stats.vercel.app/api/wakatime?username=Flysoft&locale=cn&theme=react#gh-dark-mode-only)
-![Flysoft 的 Wakatime 状态-Light](https://github-readme-stats.vercel.app/api/wakatime?username=Flysoft&locale=cn&theme=default#gh-light-mode-only)
+
+![Flysoft 的 GitHub 状态](https://github-readme-stats.vercel.app/api?username=FlysoftBeta&show_icons=true&locale=cn&theme=react)
+
+![Flysoft 的 Wakatime 状态](https://github-readme-stats.vercel.app/api/wakatime?username=Flysoft&locale=cn&theme=react)
 
 - ✨ 你好，我是 @FlysoftBeta
 
