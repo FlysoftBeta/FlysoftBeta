@@ -23,3 +23,9 @@
 - 🌱 目前正在学习 TypeScript, JavaScript, C#, C++, Blender, Xd 等
 
 - 📫 我的B站主页 [414121283](https://space.bilibili.com/414121283)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://flysoft.js.org/FlysoftBeta/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://flysoft.js.org/FlysoftBeta/github-snake.svg">
+  <img alt="github-snake" src="https://flysoft.js.org/FlysoftBeta/github-snake.svg">
+</picture>
