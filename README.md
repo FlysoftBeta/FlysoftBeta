@@ -1,6 +1,14 @@
-![Flysoft-GitHub-stats](https://github-readme-stats.vercel.app/api?username=FlysoftBeta&show_icons=true&theme=react#gh-dark-mode-only)
-
-![Flysoft's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Flysoft&theme=react#gh-dark-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=FlysoftBeta&show_icons=true&theme=react">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=FlysoftBeta&show_icons=true">
+  <img alt="Flysoft's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=FlysoftBeta&show_icons=true">
+</picture>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Flysoft&theme=react">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Flysoft">
+  <img alt="Flysoft's Wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Flysoft">
+</picture>
 
 - ✨ Hi, I’m @FlysoftBeta
 
@@ -10,11 +18,17 @@
 
 - 📫 Bilibili: [414121283](https://space.bilibili.com/414121283)
 
-
-
-![Flysoft 的 GitHub 状态](https://github-readme-stats.vercel.app/api?username=FlysoftBeta&show_icons=true&locale=cn&theme=react)
-
-![Flysoft 的 Wakatime 状态](https://github-readme-stats.vercel.app/api/wakatime?username=Flysoft&locale=cn&theme=react)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=FlysoftBeta&show_icons=true&locale=cn&theme=react">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=FlysoftBeta&show_icons=true&locale=cn">
+  <img alt="Flysoft 的 GitHub 状态" src="https://github-readme-stats.vercel.app/api?username=FlysoftBeta&show_icons=true&locale=cn">
+</picture>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Flysoft&locale=cn&theme=react">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Flysoft&locale=cn">
+  <img alt="Flysoft 的 Wakatime 状态" src="https://github-readme-stats.vercel.app/api/wakatime?username=Flysoft&locale=cn">
+</picture>
 
 - ✨ 你好，我是 @FlysoftBeta
 
@@ -27,5 +41,5 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://flysoft.js.org/FlysoftBeta/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://flysoft.js.org/FlysoftBeta/github-snake.svg">
-  <img alt="github-snake" src="https://flysoft.js.org/FlysoftBeta/github-snake.svg">
+  <img alt="¿" src="https://flysoft.js.org/FlysoftBeta/github-snake.svg">
 </picture>
