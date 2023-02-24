@@ -39,7 +39,7 @@
 - 📫 我的B站主页 [414121283](https://space.bilibili.com/414121283)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://flysoft.js.org/FlysoftBeta/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://flysoft.js.org/FlysoftBeta/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://flysoftbeta.cn/FlysoftBeta/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://flysoftbeta.cn/FlysoftBeta/github-snake.svg">
   <img alt="¿" src="https://flysoft.js.org/FlysoftBeta/github-snake.svg">
 </picture>
