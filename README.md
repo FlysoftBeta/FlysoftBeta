@@ -6,6 +6,8 @@
 
 - ✨ Hi, I’m @FlysoftBeta
 
-- 👀 I’m interested in coding
+- 👀 I’m interested in computer science
 
-- 🌱 I’m currently a middle school student
+- 🌱 I’m currently a senior high school student
+
+- Blog: [flysoft.xlog.app](flysoft.xlog.app)
