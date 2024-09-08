@@ -10,4 +10,4 @@
 
 - 🌱 I’m currently a senior high school student
 
-- Blog: [flysoft.xlog.app](flysoft.xlog.app)
+- Blog: [flysoft.xlog.app](https://flysoft.xlog.app)
