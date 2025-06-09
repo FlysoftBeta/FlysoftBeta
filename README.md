@@ -1,3 +1,5 @@
+![Arona & Plana (pixiv: 113113206)](113113206_p0_landscape.png)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=FlysoftBeta&show_icons=true&theme=react">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=FlysoftBeta&show_icons=true">
