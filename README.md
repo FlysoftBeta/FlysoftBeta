@@ -12,3 +12,4 @@
 
 - 🌱 I’m currently a senior high school student
 
+- 🌐 [Blog (CN)](https://flysoftbeta.top)
